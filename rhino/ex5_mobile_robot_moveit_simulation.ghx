@@ -69,10 +69,10 @@
             <chunk name="Projection">
               <items count="2">
                 <item name="Target" type_name="gh_drawing_point" type_code="30">
-                  <X>-8565</X>
-                  <Y>-7444</Y>
+                  <X>-2863</X>
+                  <Y>-2906</Y>
                 </item>
-                <item name="Zoom" type_name="gh_single" type_code="5">5.3029356</item>
+                <item name="Zoom" type_name="gh_single" type_code="5">2</item>
               </items>
             </chunk>
             <chunk name="Views">
@@ -27936,14 +27936,14 @@ plane = rg.Plane(origin, xvec, yvec)</item>
                     <chunk name="Attributes">
                       <items count="2">
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                          <X>1485</X>
-                          <Y>1581</Y>
+                          <X>1491</X>
+                          <Y>1579</Y>
                           <W>130</W>
                           <H>28</H>
                         </item>
                         <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                          <X>1561</X>
-                          <Y>1595</Y>
+                          <X>1567</X>
+                          <Y>1593</Y>
                         </item>
                       </items>
                     </chunk>
@@ -27975,14 +27975,14 @@ plane = rg.Plane(origin, xvec, yvec)</item>
                             <chunk name="Attributes">
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                                  <X>1487</X>
-                                  <Y>1583</Y>
+                                  <X>1493</X>
+                                  <Y>1581</Y>
                                   <W>59</W>
                                   <H>24</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                                  <X>1518</X>
-                                  <Y>1595</Y>
+                                  <X>1524</X>
+                                  <Y>1593</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -28001,14 +28001,14 @@ plane = rg.Plane(origin, xvec, yvec)</item>
                             <chunk name="Attributes">
                               <items count="2">
                                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                                  <X>1576</X>
-                                  <Y>1583</Y>
+                                  <X>1582</X>
+                                  <Y>1581</Y>
                                   <W>37</W>
                                   <H>24</H>
                                 </item>
                                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                                  <X>1594.5</X>
-                                  <Y>1595</Y>
+                                  <X>1600.5</X>
+                                  <Y>1593</Y>
                                 </item>
                               </items>
                             </chunk>
@@ -28170,12 +28170,12 @@ class InverseKinematics(component):
                     <item name="Description" type_name="gh_string" type_code="10">Calculate the robot's inverse kinematic for a given plane.
 COMPAS FAB v0.27.0</item>
                     <item name="EditorLocation" type_name="gh_drawing_point" type_code="30">
-                      <X>356</X>
-                      <Y>206</Y>
+                      <X>135</X>
+                      <Y>354</Y>
                     </item>
                     <item name="EditorSize" type_name="gh_drawing_size" type_code="32">
-                      <W>1889</W>
-                      <H>1088</H>
+                      <W>1775</W>
+                      <H>1209</H>
                     </item>
                     <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
                     <item name="HideInput" type_name="gh_bool" type_code="1">true</item>
@@ -30073,20 +30073,20 @@ COMPAS FAB v0.27.0</item>
                       <items count="3">
                         <item name="Expression" type_name="gh_string" type_code="10">"ur10e"</item>
                         <item name="Name" type_name="gh_string" type_code="10">ur10e</item>
-                        <item name="Selected" type_name="gh_bool" type_code="1">true</item>
+                        <item name="Selected" type_name="gh_bool" type_code="1">false</item>
                       </items>
                     </chunk>
                     <chunk name="ListItem" index="1">
                       <items count="3">
                         <item name="Expression" type_name="gh_string" type_code="10">"ur10e_and_liftkit"</item>
                         <item name="Name" type_name="gh_string" type_code="10">ur10e_and_liftkit</item>
-                        <item name="Selected" type_name="gh_bool" type_code="1">false</item>
+                        <item name="Selected" type_name="gh_bool" type_code="1">true</item>
                       </items>
                     </chunk>
                     <chunk name="Attributes">
                       <items count="1">
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                          <X>1500</X>
+                          <X>1475</X>
                           <Y>1635</Y>
                           <W>198</W>
                           <H>22</H>
